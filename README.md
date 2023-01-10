@@ -13,7 +13,7 @@ inference: false
 
 ## Model description
 
-Pymalion 6B is a proof-of-concept dialogue model based on EleutherAI's [GPT-J-6B](https://huggingface.co/EleutherAI/gpt-j).
+Pymalion 6B is a proof-of-concept dialogue model based on EleutherAI's [GPT-J-6B](https://huggingface.co/EleutherAI/gpt-j-6B).
 
 **Warning:** This model is **NOT** suitable for use by minors. It **will** output X-rated content under certain circumstances.
 
