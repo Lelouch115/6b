@@ -31,7 +31,7 @@ The model was then further fine-tuned on ~48.5 million tokens for ~5k steps on 4
 
 ### The easy way
 
-We plan to provide a notebook with a Gradio UI for playing around with the model shortly. Until then, please refer to the section below for manual usage.
+We provide a notebook with a Gradio UI for playing around with the model without having to manually format inputs. This notebook can be found [here](https://github.com/PygmalionAI/gradio-ui/blob/master/notebooks/GPU.ipynb).
 
 ### The manual way
 
