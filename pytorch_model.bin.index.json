@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_size": 12219206136
+    "total_size": 12116445688.0
   },
   "weight_map": {
     "lm_head.bias": "pytorch_model-00002-of-00002.bin",
@@ -205,8 +205,8 @@
     "transformer.h.23.attn.v_proj.weight": "pytorch_model-00001-of-00002.bin",
     "transformer.h.23.ln_1.bias": "pytorch_model-00001-of-00002.bin",
     "transformer.h.23.ln_1.weight": "pytorch_model-00001-of-00002.bin",
-    "transformer.h.23.mlp.fc_in.bias": "pytorch_model-00002-of-00002.bin",
-    "transformer.h.23.mlp.fc_in.weight": "pytorch_model-00002-of-00002.bin",
+    "transformer.h.23.mlp.fc_in.bias": "pytorch_model-00001-of-00002.bin",
+    "transformer.h.23.mlp.fc_in.weight": "pytorch_model-00001-of-00002.bin",
     "transformer.h.23.mlp.fc_out.bias": "pytorch_model-00002-of-00002.bin",
     "transformer.h.23.mlp.fc_out.weight": "pytorch_model-00002-of-00002.bin",
     "transformer.h.24.attn.bias": "pytorch_model-00002-of-00002.bin",
